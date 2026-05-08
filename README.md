@@ -1,2 +1,2 @@
 # lazochat-legal
-LazoChat legal pages
+SudoClaw legal pages
